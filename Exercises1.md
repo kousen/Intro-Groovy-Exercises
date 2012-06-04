@@ -5,6 +5,8 @@ Exercises
     
     Create a list of strings. Sort them alphabetically. Sort them by length. Sort them by length in descending order.
     
+    _Advanced:_ Sort by length, then sort equal length strings alphabetically
+    
 2. *Processing a list of numbers*
     
     Create a list of numbers. Add them together. First double each number, then add them up. Compute their average.
