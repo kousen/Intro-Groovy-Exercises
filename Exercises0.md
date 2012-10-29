@@ -16,14 +16,8 @@ Exercises
     b. Declare a variable `x` of type `def` and assign it the sum of 1 and 1.5. What is the resulting data type?
     
     c. What do you get when you divide 5 by 2? What is the resulting data type? If you wanted to do integer division (no remainder), what method would you call?
-    
-3. *Operators*
-    
-    Add parentheses to make the following expression true, then false:
-    
-    `assert 2 > 3 || 4 < 5 && 6 != 7`
-    
-4. *Wrapper Classes*
+        
+3. *Wrapper Classes*
 
     From the associated wrapper classes, find the min and max values for the Java primitives: `byte`, `short`, `int`, `long`, `float`, `double`.
 
