@@ -3,7 +3,7 @@ Exercises
 
 1. *Slurp JSON data*
     
-    Access the data at [Exchange Rates](http://openexchangerates.org/latest.json) using a `JsonSlurper`. 
+    Access the data at [Exchange Rates](http://openexchangerates.org/latest.json?app_id=df12e49e55a34cf0927f592c2a36f8b0) using a `JsonSlurper`. 
 
 2. *Geocode addresses*
 
